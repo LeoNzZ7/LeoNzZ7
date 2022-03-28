@@ -1,7 +1,6 @@
 ## 👋 Olá, Eu sou Leonardo 
 - Olá, me chamo Leonardo Nunes Martinha, tenho 17 anos e moro Santa Catarina, sou apaixonado por desenvolvimento web e mobile e estou estudando tecnologias relacionadas para no futuro poder ingressar na área. ate agora não obtive nenhuma experiência profissional, mas estou em busca da minha primera oportunidade.
 ## Estudando
-- Javascript
 - ReactJs 
 
 <div style='display' display='flex'>
