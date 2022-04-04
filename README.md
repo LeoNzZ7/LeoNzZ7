@@ -11,7 +11,8 @@
 <div style='display' display='inline-block'><br> 
   <img aling-item="center" width="50px" height="50px" alt="leo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
   <img aling-item="center" width="50px" height="50px" alt="leo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img aling-item="center" width="50px" height="50px" alt="leo-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img aling-item="center" width="50px" height="50px" alt="leo-ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img aling-item="center" width="50px" height="50px" alt="leo-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img aling-item="center" width="50px" height="50px" alt="leo-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img aling-item="center" width="50px" height="50px" alt="leo-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 </div>
