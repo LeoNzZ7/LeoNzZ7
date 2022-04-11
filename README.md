@@ -3,10 +3,10 @@
 ## Estudando
 - ReactJs 
 
-<div style='display' display='flex' aling="center">
+<div style='display' display='flex'>
   <a href="https://github.com/LeoNzZ7" />
-  <img aling="center" height='180cm' src='https://github-readme-stats.vercel.app/api?username=LeoNzZ7&show_icons=true' />
-  <img aling="center" height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNzZ7&layout=compact' />
+  <img aling="center" height='180cm width="450cm"' src='https://github-readme-stats.vercel.app/api?username=LeoNzZ7&show_icons=true' />
+  <img aling="center" width="450cm" height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNzZ7&layout=compact&count_private=true' />
   
 </div>
 <div style='display' display='inline-block'><br> 
