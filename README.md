@@ -5,8 +5,8 @@
 
 <div style='display' display='flex' aling="center">
   <a href="https://github.com/LeoNzZ7" />
-  <img height='200cm' src='https://github-readme-stats.vercel.app/api?username=LeoNzZ7&show_icons=true' />
-  <img height='200cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNzZ7&layout=compact' />
+  <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=LeoNzZ7&show_icons=true' />
+  <img height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNzZ7&layout=compact' />
   
 </div>
 <div style='display' display='inline-block'><br> 
