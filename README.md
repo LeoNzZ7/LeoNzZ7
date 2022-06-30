@@ -15,3 +15,4 @@
   <img aling-item="center" width="50px" height="50px" alt="leo-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
+![snake.svg](https://github.com/LeoNzZ7/LeoNzZ7/blob/output/github-contribution-grid-snake.svg)
