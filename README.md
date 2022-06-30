@@ -14,3 +14,4 @@
   <img aling-item="center" width="50px" height="50px" alt="leo-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img aling-item="center" width="50px" height="50px" alt="leo-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
+![snake gif](https://github.com/LeoNzZ7/LeoNzZ7/blob/output/github-contribution-grid-snake.svg)
