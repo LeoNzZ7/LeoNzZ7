@@ -6,6 +6,9 @@
   <img align="center" height='180cm' width="400cm" 
        src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNzZ7&layout=compact&count_private=false&theme=tokyonight' />
 </div>
+
+![snake.svg](https://github.com/LeoNzZ7/LeoNzZ7/blob/output/github-contribution-grid-snake.svg)
+
 <div style='display' display='inline-block' align="center"><br> 
   <img aling-item="center" width="50px" height="50px" alt="leo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
   <img aling-item="center" width="50px" height="50px" alt="leo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -15,4 +18,4 @@
   <img aling-item="center" width="50px" height="50px" alt="leo-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
-![snake.svg](https://github.com/LeoNzZ7/LeoNzZ7/blob/output/github-contribution-grid-snake.svg)
+
