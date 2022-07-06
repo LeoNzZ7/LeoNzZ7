@@ -4,7 +4,7 @@
   <img align="center" height='180cm' width="400cm" 
        src='https://github-readme-stats.vercel.app/api?username=LeoNzZ7&show_icons=true&theme=dark&count_private=true' />
   <img align="center" height='180cm' width="400cm" 
-       src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNzZ7&layout=compact&count_private=false&theme=dark&count_private=true' />
+       src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNzZ7&layout=compact&theme=dark&count_private=true' />
 </div>
 
 <div style='display' display='inline-block' align="center">
